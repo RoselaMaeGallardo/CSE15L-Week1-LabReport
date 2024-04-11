@@ -10,6 +10,7 @@
 **Share an example of using the command with a path to a file as an argument.**
 ![Image](Screen Shot 2024-04-10 at 9.36.36 PM.png) <br>
 
+<br>
 ## ls
 
 **Share an example of using the command with no arguments.**
@@ -17,8 +18,9 @@
 **Share an example of using the command with a path to a directory as an argument.**
 ![Image](Screen Shot 2024-04-10 at 9.38.00 PM.png) <br>
 **Share an example of using the command with a path to a file as an argument.**
-![Image](Screen Shot 2024-04-10 at 9.39.40 PM.png) <br>
+![Image](Screen Shot 2024-04-10 at 9.39.40 PM.png) <be>
 
+<br>
 ## cat
 
 **Share an example of using the command with no arguments.**
