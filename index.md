@@ -11,7 +11,7 @@ My current working directory before the `cd` command is `/Users/roselag` (absolu
 
 **Share an example of using the command with a path to a directory as an argument.**
 ![Image](Screen Shot 2024-04-10 at 9.33.33 PM.png) <br>
-My current directory before the `cd` command is `/Users/roselag` (absolute path); when `cd cse15l-lab-reports` had been called, the current working directory changed to `/Users/roselag/cse15l-lab-reports` because `cse15l-lab-reports` exists in my machine. This is not an error. 
+My current directory before the `cd` command is `/Users/roselag` (absolute path); when `cd cse15l-lab-reports` had been called, the current working directory changed to `/Users/roselag/cse15l-lab-reports` because `cse15l-lab-reports` exists in my machine and because of the fact that`cd` is to change directory and we specified what directory to change to, it indeed changed to `/Users/roselag/cse15l-lab-reports`. This is not an error. 
 <br>
 <br>
 
@@ -26,13 +26,13 @@ The current working directory before the `cd` command is `/Users/roselag/cse15l-
 
 **Share an example of using the command with no arguments.**
 ![Image](Screen Shot 2024-04-10 at 9.37.19 PM.png) <br>
-The current directory before `ls` command is `/Users/roselag` (absolute path); when `ls` was called, it just listed the directories and files inside of the current working directory. This is not an error. 
+The current working directory before `ls` command is `/Users/roselag` (absolute path); when `ls` was called, it just listed the directories and files inside of the current working directory. Since there is no specific argument given, it just listed the files and directories inside of the current working directory. This is not an error. 
 <br>
 <br>
 
 **Share an example of using the command with a path to a directory as an argument.**
 ![Image](Screen Shot 2024-04-10 at 9.38.00 PM.png) <br>
-The current working directory before the `ls` command is `/Users/roselag` (absolute path); when `ls cse15l-lab-reports` was called, it listed the contents of `cse15l-lab-reports` because `cse15l-lab-reports` exists in the current working directory. This is not an error.
+The current working directory before the `ls` command is `/Users/roselag` (absolute path); when `ls cse15l-lab-reports` was called, it listed the contents of `cse15l-lab-reports` because we specified to list the contents of `cse15l-lab-reports` and `cse15l-lab-reports` exists in the current working directory with that `ls` command with `cse15l-lab-reports`as an argument . This is not an error.
 <br>
 <br>
 
